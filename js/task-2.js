@@ -25,7 +25,7 @@ const images = [
   },
 ];
 
-const galerry = document.querySelector("ul");
+const galerry = document.querySelector(".gallery");
 
 const markup = images
   .map(
